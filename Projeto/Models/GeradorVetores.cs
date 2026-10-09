@@ -30,7 +30,7 @@ public static class GeradorVetores
             case TipoVetor.Aleatorio:
 
                 for (int i = 0; i < tamanho; i++)
-                    vetor[i] = random.Next(1, 100000);
+                    vetor[i] = random.Next(1, 100);
 
                 break;
         }

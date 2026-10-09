@@ -13,10 +13,9 @@ class Program
         int[] vetor = GeradorVetores.Gerar(10,  tipoVetor);
        
         Impressao.ExibirVetor(vetor);
-        vetor = BubleSort.Executar(vetor);
+        vetor = ShellSort.Executar(vetor);
 
         Impressao.ExibirVetor(vetor);
-
         
     }
 }
