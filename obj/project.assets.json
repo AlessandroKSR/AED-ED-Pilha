@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1666990\\Workspace\\OrdenacaoInterna\\OrdenacaoInterna.csproj",
+      "projectUniqueName": "C:\\Users\\1666990\\Downloads\\AED-ED-Pilha\\OrdenacaoInterna.csproj",
       "projectName": "OrdenacaoInterna",
-      "projectPath": "C:\\Users\\1666990\\Workspace\\OrdenacaoInterna\\OrdenacaoInterna.csproj",
+      "projectPath": "C:\\Users\\1666990\\Downloads\\AED-ED-Pilha\\OrdenacaoInterna.csproj",
       "packagesPath": "C:\\Users\\1666990\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1666990\\Workspace\\OrdenacaoInterna\\obj\\",
+      "outputPath": "C:\\Users\\1666990\\Downloads\\AED-ED-Pilha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
