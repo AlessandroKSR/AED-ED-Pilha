@@ -28,3 +28,18 @@ C:\Users\1666990\Workspace\OrdenacaoInterna\obj\Debug\net10.0\refint\OrdenacaoIn
 C:\Users\1666990\Workspace\OrdenacaoInterna\obj\Debug\net10.0\OrdenacaoInterna.pdb
 C:\Users\1666990\Workspace\OrdenacaoInterna\obj\Debug\net10.0\OrdenacaoInterna.genruntimeconfig.cache
 C:\Users\1666990\Workspace\OrdenacaoInterna\obj\Debug\net10.0\ref\OrdenacaoInterna.dll
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\bin\Debug\net10.0\OrdenacaoInterna.exe
+A:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\bin\Debug\net10.0\OrdenacaoInterna.deps.json
+A:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\bin\Debug\net10.0\OrdenacaoInterna.runtimeconfig.json
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\bin\Debug\net10.0\OrdenacaoInterna.dll
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\bin\Debug\net10.0\OrdenacaoInterna.pdb
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.GeneratedMSBuildEditorConfig.editorconfig
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.AssemblyInfoInputs.cache
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.AssemblyInfo.cs
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.csproj.CoreCompileInputs.cache
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.sourcelink.json
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.dll
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\refint\OrdenacaoInterna.dll
+a:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.pdb
+A:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\OrdenacaoInterna.genruntimeconfig.cache
+A:\AlessandroKennedy\Instituicoes de Ensino\PUC\2° Periodo\AED\Codigos\AED-ED-Pilha\obj\Debug\net10.0\ref\OrdenacaoInterna.dll
